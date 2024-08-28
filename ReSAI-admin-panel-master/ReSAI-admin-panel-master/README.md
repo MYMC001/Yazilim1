@@ -1,0 +1,1 @@
+ReSAI  is an smart recruitment system that uses AI to help companies find the best candidates for their job openings.
